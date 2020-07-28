@@ -1,8 +1,8 @@
-# Utopia-ltversion-monitor
+# LBC-ltversion-monitor
 
-Official Golang implementation of the Utopia protocol.
+Official Golang implementation of the LBC protocol.
 
-Utopia is a command function framework.
+LBC is a command function framework.
 
 it needs to run under windows server version
 
